@@ -45,7 +45,7 @@ I enjoy trying new languages, framework and tech 🤓 if you are  likeminded let
 [Terraform]: https://www.terraform.io/
 [Docker]: https://www.docker.com/
 [Linux]: https://www.linux.org/
-</div>
+
 ### I enjoy doing some coding challenges and stackoverflow anwers on the side
 - [Stackoverflow]
 - [Codingame]
