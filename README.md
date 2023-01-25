@@ -39,8 +39,9 @@ I enjoy trying new languages, framework and tech 🤓 if you are  likeminded let
 ## Certifications
 
 ### Google Cloud
-[![Google Cloud Certified Professional Cloud Architect](./images/gcp/pro_cloud_architect.png)](https://www.credential.net/b46d0a29-e1b0-4fd3-b3df-f3ea89446eb5) &emsp;
+[![Google Cloud Certified Professional Cloud DevOps Engineer](./images/gcp/pro_cloud_devops.png)](https://www.credential.net/08d61b0e-4f04-4b20-824f-771a76220dd2) &emsp;
 [![Google Cloud Certified Professional Cloud Developer](./images/gcp/pro_cloud_developer.png)](https://www.credential.net/7963f3f6-414a-49c1-be86-059cfd095d2e) &emsp;
+[![Google Cloud Certified Professional Cloud Architect](./images/gcp/pro_cloud_architect.png)](https://www.credential.net/b46d0a29-e1b0-4fd3-b3df-f3ea89446eb5) &emsp;
 [![Google Cloud Certified Associate Cloud Engineer](./images/gcp/asc_cloud_engineer.png)](https://www.credential.net/7ae15f5d-8321-490c-b996-ce527776db87) &emsp;
 
 ### HashiCorp
