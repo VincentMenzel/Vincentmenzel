@@ -47,6 +47,9 @@ I enjoy trying new languages, framework and tech 🤓 if you are  likeminded let
 ### HashiCorp
 [![HashiCorp Certified: Terraform Associate (002)](./images/hashicorp/asc_terraform.png)](https://www.credly.com/earner/earned/badge/2363253a-5cbb-4737-a3e3-92b29391e409) &emsp;
 
+### Linux Foundation
+[![CKAD: Certified Kubernetes Application Developer](./images/linux_foundation/ckad.png)](https://www.credly.com/earner/earned/badge/c32fa21d-ed9f-471d-8599-a96155826d3f) &emsp;
+
 ## My Statistics
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vincentmenzel&theme=blueberry&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
