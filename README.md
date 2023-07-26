@@ -54,7 +54,7 @@ I enjoy trying new languages, framework and tech 🤓 if you are  likeminded let
 
 ## My Statistics
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vincentmenzel&theme=blueberry&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vincentmenzel&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 Here are some ideas to get you started:
