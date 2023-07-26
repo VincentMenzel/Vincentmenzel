@@ -53,8 +53,8 @@ I enjoy trying new languages, framework and tech 🤓 if you are  likeminded let
 [![CKAD: Certified Kubernetes Application Developer](./images/linux_foundation/ckad.png)](https://www.credly.com/earner/earned/badge/c32fa21d-ed9f-471d-8599-a96155826d3f) &emsp;
 
 ## My Statistics
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vincentmenzel&theme=blueberry&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vincentmenzel&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vincentmenzel&theme=blueberry&show_icons=true)](https://www.linkedin.com/in/vincent-menzel/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vincentmenzel&layout=compact)](https://www.linkedin.com/in/vincent-menzel/)
 
 <!--
 Here are some ideas to get you started:
