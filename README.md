@@ -1,14 +1,14 @@
 ### About Me:
-I enjoy trying new languages, framework and tech 🤓 if you are  likeminded lets have a chat 💬
+Coding enthusiast on a perpetual adventure to discover and play with new tech and languages! 👨‍💻
 
-[I like coffe ☕, you can send me one here](https://www.buymeacoffee.com/vincentmenzel)
-
+[![Buy me a coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/vincentmenzel)
 
 ### My favorite cloud platform: 
 [![Google Cloud Platform](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
 
 
 ### My favorite languages:
+[![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324)](https://www.rust-lang.org/)
 [![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://www.javascript.com/)
 [![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://www.python.org/)
@@ -41,6 +41,8 @@ I enjoy trying new languages, framework and tech 🤓 if you are  likeminded let
 ## Certifications
 
 ### Google Cloud
+<!-- [![Google Cloud Certified Associate Database Engineer](./images/gcp/pro_cloud_database.png)](https://www.credential.net/) &emsp; -->
+[![Google Cloud Certified Associate Data Engineer](./images/gcp/pro_cloud_data.png)](https://www.credential.net/774af95a-4e72-4440-992d-666d45544d30) &emsp;
 [![Google Cloud Certified Professional Cloud DevOps Engineer](./images/gcp/pro_cloud_devops.png)](https://www.credential.net/08d61b0e-4f04-4b20-824f-771a76220dd2) &emsp;
 [![Google Cloud Certified Professional Cloud Developer](./images/gcp/pro_cloud_developer.png)](https://www.credential.net/7963f3f6-414a-49c1-be86-059cfd095d2e) &emsp;
 [![Google Cloud Certified Professional Cloud Architect](./images/gcp/pro_cloud_architect.png)](https://www.credential.net/b46d0a29-e1b0-4fd3-b3df-f3ea89446eb5) &emsp;
