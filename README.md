@@ -41,8 +41,9 @@ Coding enthusiast on a perpetual adventure to discover and play with new tech an
 ## Certifications
 
 ### Google Cloud
-[![Google Cloud Certified Associate Database Engineer](./images/gcp/pro_cloud_database.png)](https://google.accredible.com/8995f993-805c-467b-98bb-f42df8e7d6af) &emsp;
-[![Google Cloud Certified Associate Data Engineer](./images/gcp/pro_cloud_data.png)](https://www.credential.net/774af95a-4e72-4440-992d-666d45544d30) &emsp;
+[![Google Cloud Certified Professional Database Engineer](./images/gcp/pro_cloud_security.png)](https://google.accredible.com/1d0ed149-cdc2-4f78-8962-8fc95961a02b) &emsp;
+[![Google Cloud Certified Professional Database Engineer](./images/gcp/pro_cloud_database.png)](https://google.accredible.com/8995f993-805c-467b-98bb-f42df8e7d6af) &emsp;
+[![Google Cloud Certified Professional Data Engineer](./images/gcp/pro_cloud_data.png)](https://www.credential.net/774af95a-4e72-4440-992d-666d45544d30) &emsp;
 [![Google Cloud Certified Professional Cloud DevOps Engineer](./images/gcp/pro_cloud_devops.png)](https://www.credential.net/08d61b0e-4f04-4b20-824f-771a76220dd2) &emsp;
 [![Google Cloud Certified Professional Cloud Developer](./images/gcp/pro_cloud_developer.png)](https://www.credential.net/7963f3f6-414a-49c1-be86-059cfd095d2e) &emsp;
 [![Google Cloud Certified Professional Cloud Architect](./images/gcp/pro_cloud_architect.png)](https://www.credential.net/b46d0a29-e1b0-4fd3-b3df-f3ea89446eb5) &emsp;
