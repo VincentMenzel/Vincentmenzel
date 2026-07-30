@@ -26,5 +26,5 @@ Senior Software Developer at PCG GmbH. Focus: parts of distributed systems that 
 [![Vincent's github stats](https://github-readme-stats.vercel.app/api?username=vincentMenzel&theme=blueberry&show_icons=true)](https://linkedin.com/in/vincent-menzel)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vincentMenzel&layout=compact)](https://linkedin.com/in/vincent-menzel)
 
-<!-- Auto-generated from http://localhost:8792/profile.json by scripts/generate-readme.ts — do not edit by hand.
-Last synced: 2026-07-30T14:26:41.828Z -->
+<!-- Auto-generated from https://vincentmenzel.com/profile.json by scripts/generate-readme.ts — do not edit by hand.
+Last synced: 2026-07-30T15:15:42.138Z -->
