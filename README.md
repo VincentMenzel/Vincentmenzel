@@ -1,12 +1,12 @@
 ### About Me:
-Senior Software Developer at PCG GmbH. Focus: parts of distributed systems that don't make conference talks but decide whether the weekend gets ruined — observability, failure modes, deploy reliability. Business-informatics background, so decisions weigh cost and context, not just the technical optimum.
+Senior Software Engineer at PCG GmbH. Focus: parts of distributed systems that don't make conference talks but decide whether the weekend gets ruined — observability, failure modes, deploy reliability. Business-informatics background, so decisions weigh cost and context, not just the technical optimum.
 
 [![Portfolio](https://img.shields.io/badge/vincentmenzel.com-24292f?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem02LjkzIDZoLTIuOTVjLS4zMi0xLjI1LS43OC0yLjQ1LTEuMzgtMy41NiAxLjg0LjYzIDMuMzcgMS45MSA0LjMzIDMuNTZ6TTEyIDQuMDRjLjgzIDEuMiAxLjQ4IDIuNTMgMS45MSAzLjk2aC0zLjgyYy40My0xLjQzIDEuMDgtMi43NiAxLjkxLTMuOTZ6TTQuMjYgMTRDNC4xIDEzLjM2IDQgMTIuNjkgNCAxMnMuMS0xLjM2LjI2LTJoMy4zOGMtLjA4LjY2LS4xNCAxLjMyLS4xNCAycy4wNiAxLjM0LjE0IDJINC4yNnptLjgyIDJoMi45NWMuMzIgMS4yNS43OCAyLjQ1IDEuMzggMy41NkM3LjU3IDE4LjkzIDYuMDQgMTcuNjUgNS4wOCAxNnptMi45NS04SDUuMDhjLjk2LTEuNjUgMi40OS0yLjkzIDQuMzMtMy41NkM4LjgxIDUuNTUgOC4zNSA2Ljc1IDguMDMgOHpNMTIgMTkuOTZjLS44My0xLjItMS40OC0yLjUzLTEuOTEtMy45NmgzLjgyYy0uNDMgMS40My0xLjA4IDIuNzYtMS45MSAzLjk2ek0xNC4zNCAxNEg5LjY2Yy0uMDktLjY2LS4xNi0xLjMyLS4xNi0ycy4wNy0xLjM1LjE2LTJoNC42OGMuMDkuNjUuMTYgMS4zMi4xNiAycy0uMDcgMS4zNC0uMTYgMnptLjI1IDUuNTZjLjYtMS4xMSAxLjA2LTIuMzEgMS4zOC0zLjU2aDIuOTVjLS45NiAxLjY1LTIuNDkgMi45My00LjMzIDMuNTZ6TTE2LjM2IDE0Yy4wOC0uNjYuMTQtMS4zMi4xNC0ycy0uMDYtMS4zNC0uMTQtMmgzLjM4Yy4xNi42NC4yNiAxLjMxLjI2IDJzLS4xIDEuMzYtLjI2IDJoLTMuMzh6Ii8+PC9zdmc+&logoColor=white)](https://vincentmenzel.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-24292f?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vincent-menzel)
 [![Buy me a coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-24292f?style=flat-square&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/vincentmenzel)
 
 ### Core stack:
-`TypeScript` · `Go` · `Python` · `Rust` · `Node.js` · `NestJS` · `Docker` · `Kubernetes` · `Terraform` · `Postgres` · `AWS` · `GCP`
+`TypeScript` · `Go` · `Python` · `Node.js` · `NestJS` · `Docker` · `Kubernetes` · `Terraform` · `Postgres` · `AWS` · `GCP`
 
 ### Other tools I like:
 [![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
@@ -27,4 +27,4 @@ Senior Software Developer at PCG GmbH. Focus: parts of distributed systems that 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vincentMenzel&layout=compact)](https://linkedin.com/in/vincent-menzel)
 
 <!-- Auto-generated from https://vincentmenzel.com/profile.json by scripts/generate-readme.ts — do not edit by hand.
-Last synced: 2026-07-30T15:15:42.138Z -->
+Last synced: 2026-09-30T20:02:53.089Z -->
