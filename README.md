@@ -27,4 +27,4 @@ Senior Software Engineer at PCG GmbH. Focus: parts of distributed systems that d
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vincentMenzel&layout=compact)](https://linkedin.com/in/vincent-menzel)
 
 <!-- Auto-generated from https://vincentmenzel.com/profile.json by scripts/generate-readme.ts — do not edit by hand.
-Last synced: 2026-09-30T20:02:53.089Z -->
+Last synced: 2026-10-05T10:33:59.419Z -->
